@@ -17,15 +17,19 @@ main div img:hover{
 	transition: 400ms;
 }
 
- main div {
+main div {
  	min-height: 700px;
 
  	background-image: url('https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?cs=srgb&dl=pexels-daniel-absi-952670.jpg&fm=jpg');
  	/*outline*/
  	
- }
+}
 
- nav ul {
+nav ul {
  	list-style-type: none;
- }
+}
+
+nav ul li {
+	display: 
+}
 
