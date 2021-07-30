@@ -14,7 +14,11 @@ header #picture img {
 }
 
 header {
-	background-image: url('https://images.pexels.com/photos/3178786/pexels-photo-3178786.jpeg?cs=srgb&dl=pexels-andrew-neel-3178786.jpg&fm=jpg');
-	height: 1000px;
-	width: 1000px;
+	background-image: url('https://images.pexels.com/photos/733475/pexels-photo-733475.jpeg?cs=srgb&dl=pexels-juan-733475.jpg&fm=jpg');
+	background-position: center;
+
+}
+
+header div > h1 {
+	font-family: 'Raleway', sans-serif;
 }
