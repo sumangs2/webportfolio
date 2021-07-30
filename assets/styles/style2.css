@@ -25,3 +25,7 @@ main div img:hover{
  	
  }
 
+ nav ul {
+ 	list-style-type: none;
+ }
+
